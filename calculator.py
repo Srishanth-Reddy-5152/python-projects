@@ -1,4 +1,4 @@
-# calculator
+
 num_1=int(input("enter num 1:  "))
 num_2=int(input("enter num 2:  "))
 
